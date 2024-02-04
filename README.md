@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddml101&label=Profile%20views&color=0e75b6&style=flat" alt="siddml101" /> </p>
 
-- 🔭 I’m currently working on **Behaviour analysis through facial expression**
+- 🔭 I’m currently working on **Student behaviour analysis through facial expression**
 
 - 🌱 I’m currently learning **Data Science & Statistics,Machine Learning and Deep Learning**
 
